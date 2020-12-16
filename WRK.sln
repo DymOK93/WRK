@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsResearchKernel", "WRK.vcxproj", "{7B312FB7-F0A3-41FE-89D1-6100FDC35009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		amd64|Win32 = amd64|Win32
+		x86|Win32 = x86|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B312FB7-F0A3-41FE-89D1-6100FDC35009}.amd64|Win32.ActiveCfg = amd64|Win32
+		{7B312FB7-F0A3-41FE-89D1-6100FDC35009}.amd64|Win32.Build.0 = amd64|Win32
+		{7B312FB7-F0A3-41FE-89D1-6100FDC35009}.x86|Win32.ActiveCfg = x86|Win32
+		{7B312FB7-F0A3-41FE-89D1-6100FDC35009}.x86|Win32.Build.0 = x86|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D502F66-D6DD-4CB0-A365-2EF0F15327CC}
+	EndGlobalSection
+EndGlobal

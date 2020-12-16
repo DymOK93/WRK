@@ -1,0 +1,8 @@
+# Build system temporary files and directories
+amd64/
+x86/
+.vs/
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
